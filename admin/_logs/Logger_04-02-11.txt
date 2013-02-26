@@ -1,0 +1,44 @@
+[18:17:52][127.0.0.1]> Usuário admin e Senha admin2011 não foram encontrados 
+[18:21:12][127.0.0.1]> Usuário admin e Senha admin2011 não foram encontrados 
+[18:22:07][127.0.0.1]> Rafael Moreira - Entrou na administração 
+[18:22:14][127.0.0.1]> Rafael Moreira - Entrou na administração 
+[18:22:16][127.0.0.1]> Rafael Moreira - Entrou na administração 
+[18:22:16][127.0.0.1]> Rafael Moreira - Entrou na administração 
+[18:22:16][127.0.0.1]> Rafael Moreira - Entrou na administração 
+[18:22:17][127.0.0.1]> Rafael Moreira - Entrou na administração 
+[18:22:29][127.0.0.1]> Rafael Moreira - Entrou na administração 
+[18:22:29][127.0.0.1]> Rafael Moreira - Entrou na administração 
+[18:22:31][127.0.0.1]> Rafael Moreira - Entrou na administração 
+[18:22:32][127.0.0.1]> Rafael Moreira - Entrou na administração 
+[18:22:32][127.0.0.1]> Rafael Moreira - Entrou na administração 
+[18:22:32][127.0.0.1]> Rafael Moreira - Entrou na administração 
+[18:22:53][127.0.0.1]> Rafael Moreira - Entrou na administração 
+[18:23:23][127.0.0.1]> Rafael Moreira - Entrou na administração 
+[18:23:23][127.0.0.1]> Rafael Moreira - Entrou na administração 
+[18:23:23][127.0.0.1]> Rafael Moreira - Entrou na administração 
+[18:23:23][127.0.0.1]> Rafael Moreira - Entrou na administração 
+[18:23:24][127.0.0.1]> Rafael Moreira - Entrou na administração 
+[18:23:24][127.0.0.1]> Rafael Moreira - Entrou na administração 
+[18:23:27][127.0.0.1]> Rafael Moreira - Entrou na administração 
+[18:23:27][127.0.0.1]> Rafael Moreira - Entrou na administração 
+[18:23:28][127.0.0.1]> Rafael Moreira - Entrou na administração 
+[18:23:28][127.0.0.1]> Rafael Moreira - Entrou na administração 
+[18:24:08][127.0.0.1]> Rafael Moreira - Entrou na administração 
+[18:24:09][127.0.0.1]> Rafael Moreira - Entrou na administração 
+[18:24:09][127.0.0.1]> Rafael Moreira - Entrou na administração 
+[18:24:09][127.0.0.1]> Rafael Moreira - Entrou na administração 
+[18:24:09][127.0.0.1]> Rafael Moreira - Entrou na administração 
+[18:24:09][127.0.0.1]> Rafael Moreira - Entrou na administração 
+[18:24:09][127.0.0.1]> Rafael Moreira - Entrou na administração 
+[18:24:10][127.0.0.1]> Rafael Moreira - Entrou na administração 
+[18:24:10][127.0.0.1]> Rafael Moreira - Entrou na administração 
+[18:24:10][127.0.0.1]> Rafael Moreira - Entrou na administração 
+[18:24:10][127.0.0.1]> Rafael Moreira - Entrou na administração 
+[18:24:10][127.0.0.1]> Rafael Moreira - Entrou na administração 
+[18:24:11][127.0.0.1]> Rafael Moreira - Entrou na administração 
+[18:24:11][127.0.0.1]> Rafael Moreira - Entrou na administração 
+[18:24:11][127.0.0.1]> Rafael Moreira - Entrou na administração 
+[18:24:12][127.0.0.1]> Rafael Moreira - Entrou na administração 
+[18:24:14][127.0.0.1]> Usuário admindasd e Senha  não foram encontrados 
+[18:24:15][127.0.0.1]> Rafael Moreira - Entrou na administração 
+[18:24:46][127.0.0.1]> Rafael Moreira - Entrou na administração 

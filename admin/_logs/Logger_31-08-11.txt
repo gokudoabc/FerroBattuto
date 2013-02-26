@@ -1,0 +1,6 @@
+[13:18:56][186.204.93.90]> Usuário battuto e Senha battuto2011 não foram encontrados 
+[13:19:00][186.204.93.90]> Usuário admin e Senha battuto2011 não foram encontrados 
+[13:19:05][186.204.93.90]> Usuário battuto e Senha battuto2011 não foram encontrados 
+[13:19:12][186.204.93.90]> Usuário ferro e Senha battuto2011 não foram encontrados 
+[13:19:33][186.204.93.90]> Usuário battuto e Senha battuto2011 não foram encontrados 
+[13:19:36][186.204.93.90]> Battuto - Entrou na administração 

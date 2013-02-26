@@ -1,0 +1,10 @@
+[17:05:57][127.0.0.1]> Usuário admin e Senha admin2011 não foram encontrados 
+[17:06:00][127.0.0.1]> Usuário admin e Senha admin2011 não foram encontrados 
+[17:06:04][127.0.0.1]> Usuário admin e Senha admin2011 não foram encontrados 
+[17:06:05][127.0.0.1]> Usuário admin e Senha admin2011 não foram encontrados 
+[17:06:06][127.0.0.1]> Usuário admin e Senha admin2011 não foram encontrados 
+[17:06:06][127.0.0.1]> Usuário admin e Senha admin2011 não foram encontrados 
+[17:06:19][127.0.0.1]> Arte Mobile - Entrou na administração 
+[15:01:16][186.204.91.39]> Battuto - Entrou na administração 
+[15:01:45][187.37.7.195]> Battuto - Entrou na administração 
+[15:09:13][186.204.91.39]> Battuto - Entrou na administração 

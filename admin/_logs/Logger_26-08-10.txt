@@ -1,0 +1,4 @@
+[11:25:51][192.168.0.48]> Usuário  e Senha  não foram encontrados 
+[11:25:51][192.168.0.48]> Usuário  e Senha  não foram encontrados 
+[15:35:42][192.168.0.48]> Admin - Entrou na administração 
+[16:21:42][192.168.0.48]> Admin - Entrou na administração 

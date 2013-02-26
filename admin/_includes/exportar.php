@@ -1,0 +1,1 @@
+<td colspan="2" align="right"><div style="margin-right:20px;"> <a href="exportar_dados.php?dados=noticia" target="_blank">Exportar dados <img src="_img/excel.gif" width="26" height="26" border="0" align="absmiddle" /></a></div></td>

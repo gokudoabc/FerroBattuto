@@ -1,0 +1,5 @@
+<a href="principal.php?type=<?php echo $_GET['type'];?>" title="Todos">Todos</a> (<strong><?php $sqltodos = $mySQL->countQuery($tabela);
+						echo $sqltodos;  ?></strong>) | <a href="principal.php?type=<?php echo $_GET['type'];?>&status=publicado" title="Publicado"><?php if($_GET['status']=='publicado') { ?> <strong>Publicados</strong><?php } else { ?>Publicados<?php } ?></a> (<strong><?php $countativo = $mySQL->countQuery($tabela,'status="publicado"');
+						echo $countativo ;  ?></strong>) | <a href="principal.php?type=<?php echo $_GET['type'];?>&status=inativo" title="Todos"><?php if($_GET['status']=='inativo') { ?> <strong>Inativo</strong><?php } else { ?>Inativo<?php } ?></a> (<strong><?php $countdesa = $mySQL->countQuery($tabela,'status="inativo"');
+						echo $countdesa ;  ?></strong>) | <a href="principal.php?type=<?php echo $_GET['type'];?>&status=lixo" title="Lixo"><?php if($_GET['status']=='lixo') { ?> <strong>Lixeira</strong><?php } else { ?>Lixeira<?php } ?></a> (<strong><?php $countlixo = $mySQL->countQuery($tabela,'status="lixo"');
+						echo $countlixo ;  ?></strong>)

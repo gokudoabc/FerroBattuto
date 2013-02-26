@@ -1,0 +1,491 @@
+*, html, html *, body {
+	border: 0;
+	margin: 0;
+	padding: 0 ;
+	outline: none;
+	line-height: 100%;
+}
+body {
+	background: url("img/bg.jpg");
+	font-family: Arial, Helvetica, Sans-serif;
+}
+
+/**/
+#wrp {
+	background: url("img/inner.jpg");
+}
+#inner {
+	width: 975px;
+	margin: 0 auto;
+}
+/*Header*/
+#header {
+	height: 150px;
+	overflow: hidden;
+	background: url("img/header.png") repeat-x top;
+}
+#header .main {
+	left: 50%;
+	width: 201px;
+	height: 209px;
+	overflow: hidden;
+	z-index: 99;
+	
+	margin-left: -450px;
+	position: absolute;
+}
+#header .main a {
+	height: 209px;
+	display: block;
+	text-indent: -9999px;
+	background: url("img/logo.png");
+}
+#header #headbg {
+	height: 209px;
+	background: url("img/headerbg.png") no-repeat top center;
+}
+
+/*Home*/
+#moldura {
+	height:493px;
+	overflow: hidden;
+	background: url("img/moldura.jpg") no-repeat center;
+}
+#moldura #flash {
+	width: 857px;
+	height: 360px;
+	margin: 66px 0 0 59px;
+}
+
+
+
+/*Menu*/
+#menu {
+	width: 721px;
+	z-index: 98;
+	left: 50%;
+	position: absolute;
+	padding: 90px 0 0 0;
+	margin-left: -235px ;
+}
+#menu li {
+	display: inline;
+}
+#menu li a {
+	float: left;
+		height: 23px;
+	display: block;
+	overflow: hidden;
+	text-indent: -999px;
+	margin: 0 10px 0 0;
+	background-image: url("img/menu.png");
+}
+#menu li a:hover {
+	background-position: bottom left;
+}
+/**/
+#menu .home a {
+	width: 50px;
+}
+/**/
+#menu .empresa a {
+	width: 163px;
+	background-position: -60px top;
+}
+#menu .empresa a:hover {
+	background-position: -60px bottom;
+}
+/**/
+#menu .produtos a {
+	width: 123px;
+	background-position: -231px top;
+}
+#menu .produtos a:hover {
+	background-position: -231px bottom;
+}
+/**/
+#menu .servicos a {
+	width: 132px;
+	background-position: -366px top;
+}
+#menu .servicos a:hover {
+	background-position: -366px bottom;
+}
+/**/
+#menu .contato a {
+	width: 79px;
+	background-position: -630px top;
+}
+#menu .contato a:hover {
+	background-position: -630px bottom;
+}
+/*Home*/
+#home .start {
+	width: 910px;
+	overflow: hidden;
+	margin: auto;
+	padding: 0 0 15px 0;
+}
+#home .start h3 {
+	float: left;
+	width: 302px;
+	height: 115px;
+	border-left: 1px solid #AAA873;
+}
+#home .start h3 a {
+	height: 115px;
+	display: block;
+}
+#home .start .last {
+	border-right: 1px solid #AAA873;
+}
+
+#home p {
+  display: none;
+}
+
+/**/
+#homeAcomp {
+	text-indent: -9999px;
+	background: url("img/acompanhe.jpg") no-repeat top center;
+}
+#homeFotos {
+	text-indent: -9999px;
+	background: url("img/imagens.jpg") no-repeat top center;
+}
+#homeVendas {
+	text-indent: -9999px;
+	background: url("img/vendas.jpg") no-repeat top center;
+}
+/*Pages*/
+#pages {
+	margin: 0 45px;
+	padding: 60px 0 20px 0;
+}
+#pages h2.main {
+	color: #8C3F31;
+	padding: 0 0 5px 0;
+	text-transform: uppercase;
+	font: normal 30px "Felix Titling", "Times New Roman", Times, Serif;
+}
+#pages h3 {
+	padding: 0 0 10px 0;
+  text-transform: uppercase;
+	font: 17px "Felix Titling", "Times New Roman", Times, Serif;
+}
+#pages p.main {
+	text-transform: uppercase;
+	font: 13px/140% "Times New Roman", Times, Serif;
+}
+#pages p {
+	color: #3e130a;
+	font-size: 13px;
+	line-height: 150%;
+	margin: 0 0 10px 0;
+}
+#pages ul, #pages ol {
+	color: #3e130a;
+	font-size: 13px;
+	margin: 0 0 20px 20px;
+}
+#pages ul li, #pages ol li {
+	margin: 0 0 7px 0;
+}
+#interMoldura {
+	float: right;
+	width: 477px;
+	height: 589px;
+	margin: 0 0 0 20px;
+}
+/*destacador*/
+.destacador {
+	float: right;
+	width: 220px;
+	height: 115px;
+	text-align: center;
+	
+	background: url("img/destaque.png");
+}
+.destacador strong {
+	color: #9B7929;
+	display: block;
+	padding: 25px 0 0 0;
+	font: 25px "Times New Roman", Times, Serif;
+}
+/* listas */
+#pages .lista {
+	width: 740px;
+	height: 260px;
+	margin: 20px 0;
+	background: url("img/listas.jpg") no-repeat left top;
+}
+#pages .lista .numeros {
+	float: left;
+	width: 270px;
+	height: 150px;
+	overflow: hidden;
+	margin: 50px 0 0 5px;
+}
+#pages .lista .numeros p {
+	text-align: center;
+	margin: 40px 0 0 0;
+	text-transform: uppercase;
+	font: normal 20px "Felix Titling", "Times New Roman", Times, Serif;
+}
+#pages .lista ul {
+	float: left;
+	padding: 50px 0 0 20px;
+}
+#pages .lista .lista2 {
+	padding: 30px 0 0 20px;
+}
+#pages .tipos h3 {
+	clear: both;
+}
+#pages .tipos {
+	width: 550px;
+	margin: 0 0 0 200px;
+}
+#pages .tipos img {
+	float: left;
+	margin: 0 50px 10px 0;
+	padding-bottom: 50px;
+}
+
+#pages .lista-float {
+  float: left;
+  width: 390px;
+}
+
+/*Botoes*/
+#pages .vejaImagens a {
+	height: 50px;
+	width: 380px;
+	overflow: hidden;
+	display: block;
+	text-indent: -9999px;
+	background: url("img/veja_imagens.png") no-repeat top left;
+}
+#pages .vejaImagens a:hover {
+	background-position: bottom left;
+}
+#pages .imagens {
+	float: left;
+	padding: 5px;
+	width: 464px;
+	height: 291px;
+	margin: 0 30px 10px 0;
+	border: 3px solid #CCBD73;
+}
+#pages .imagensThumbs {
+	clear: both;
+}
+#pages .imagensThumbs a {
+	float: left;
+	display: block;
+	margin: 0 13px 10px 0;
+	bordeR: 2px solid #CCBD73;
+}
+#pages .imagensThumbs a img {
+	width: 220px;
+	margin: 5px;
+}
+/*Galeria*/
+.wrpGallery {
+	width: 270px;
+	float: left;
+	padding: 0 0 20px 0;
+}
+#pages ul.main li {
+	display: inline;
+}
+#pages ul.main img {
+	float: left;
+	margin: 20px 0 10px 60px;
+}
+/*O Apartamento*/
+#pages .plantas {
+	text-align: center;
+	margin: 0 0 30px 0;
+}
+#pages .plantas h3 {
+	color: #AA8C2A;
+	padding: 20px 0 10px 0;
+}
+
+#pages #apsul {
+  margin: 0;
+}
+
+#pages .aps {
+	float: left;
+	width: 285px;
+	margin: 0 0 20px 0;
+	list-style: none;
+}
+#pages .aps a {
+	height: 50px;
+	display: block;
+	text-indent: -9999px;
+	background: url("img/apartamentos.png") left top;
+}
+#pages .aps a:hover {
+	background-position: left bottom ;
+}
+#pages #duplex {
+	margin: 0 15px;
+}
+#pages #duplex a {
+	background-position: top center;
+}
+#pages #duplex a:hover {
+	background-position: bottom center;
+}
+#pages #diferenciado a {
+	background-position: top right;
+}
+#pages #diferenciado a:hover {
+	background-position: bottom right;
+}
+/* Localizacao */
+
+#pages #bgmap {
+  background: url('img/map.jpg') top left no-repeat;
+  padding: 10px;
+  width: 910px; 
+  height: 450px;
+}
+
+#pages #map {
+  width: 890px; 
+  height: 430px;
+}
+
+
+/*Voltar*/
+#pages .voltar {
+	clear: both;
+	height: 20px;
+	padding: 20px 0 0 0;
+}
+#pages .voltar a {
+	color: #8c3f31;
+	text-decoration: none;
+  text-transform: uppercase;
+	font: 15px "Felix Titling", "Times New Roman", Times, Serif;
+}
+#pages .voltar a:hover {
+	color: #000;
+}
+/*Editar*/
+#pages .editar {
+	top: 20px;
+	left: 20px;
+	position: fixed;
+	background: #fff;
+}
+#pages .editar a {
+	color: #000;
+	display: block;
+	padding: 10px;
+	text-decoration: none;
+}
+#pages .editar a:hover {
+	color: #fff;
+	background: #99CFFF;
+}
+/*Plantas baixas*/
+.left, .right {
+	text-align: center;
+}
+/*Form*/
+form label, form button {
+	cursor: pointer;
+}
+form .text label, form .textarea label {
+	margin: 4px 0;
+	display: block;
+}
+form .text input, form textarea {
+	color: #666;
+	padding: 3px 0;
+	width: 300px;
+	border: 1px inset #ccc;
+	background: #fff;
+	font: 15px "Times New Roman", Times, Serif;
+}
+form input:focus, form textarea:focus {
+	color: #000;
+	background: #CEB3AD;
+}
+form textarea {
+	height: 100px;
+	overflow: auto;
+}
+form button.enviar {
+	width: 93px;
+	height: 39px;
+		display: block;
+	text-indent: -9999px;
+	background: url("img/enviar.png") top left;
+}
+form button:hover {
+	background-position: bottom left;
+}
+/*Footer*/
+#footer {
+	clear: both;
+	height: 85px;
+	margin: 0 auto;
+	background: url("img/footer.jpg") repeat-x top;
+}
+#footer ul {
+	float: left;
+	height: 26px;
+	width: 728px;
+	display: inline;
+	margin: 15px 0 0 24px;
+	border-left: 1px solid #aaa873;
+	border-right: 1px solid #aaa873;
+}
+#footer ul li {
+	display: inline;
+}
+#footer li a {
+	float: left;
+	color: #52151d;
+	height: 26px;
+	padding: 0 8px;
+	display: block;
+	font-size: 13px;
+	line-height: 26px;
+	text-decoration: none;
+	background: url("img/separador1.gif") no-repeat center right;
+}
+#footer li a:hover {
+	color: #ffffff;
+}
+#footer .last a {
+	background: none;
+}
+#footer .navfoot {
+	width: 960px;
+	margin: 0 auto;
+}
+#dev {
+	color: #693D32;
+	width: 180px;
+	float: left;
+	height: 26px;
+	display: block;
+	margin: 15px 0;
+	font-size: 12px;
+	line-height: 26px;
+	font-weight: bold;
+	text-align: center;
+	text-decoration: none;
+	border-right: 1px solid #aaa873;
+}
+#dev:hover {
+	color: #000;
+}

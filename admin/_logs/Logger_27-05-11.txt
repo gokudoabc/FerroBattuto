@@ -1,0 +1,9 @@
+[11:03:01][186.204.250.223]> Usuário admin e Senha admin2011 não foram encontrados 
+[11:03:07][186.204.250.223]> Usuário orange e Senha orange2011 não foram encontrados 
+[11:03:14][186.204.250.223]> Usuário artemobile e Senha arte2011 não foram encontrados 
+[11:03:18][186.204.250.223]> Usuário arte e Senha arte2011 não foram encontrados 
+[11:03:23][186.204.250.223]> Usuário admin e Senha admin2010 não foram encontrados 
+[11:03:30][186.204.250.223]> Arte Mobile - Entrou na administração 
+[11:41:39][200.161.48.200]> Arte Mobile - Entrou na administração 
+[15:56:44][189.100.105.13]> Usuário artemobile e Senha artemobil2011 não foram encontrados 
+[15:56:52][189.100.105.13]> Arte Mobile - Entrou na administração 
