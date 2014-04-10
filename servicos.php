@@ -1,6 +1,6 @@
 <?php include ('_includes/head.php');?> 
   
-    <title>Serralheria Ferro Battuto | Serviços Serralheria</title> 
+    <title>i.i</title> 
 </head>
 <body class="home blog"> 
 <div id="wrp"> 
